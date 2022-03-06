@@ -1,0 +1,88 @@
+=======================BURGER ==========================
+Regular Chicken 60/
+Chicken Zinger 80/
+Fish Burger 60/
+Chicken Double Burger 80/
+Egg Burger 50/
+Veg Burger 40/
+Cheese Burger
+
+==============================SANDWICH====================
+Regular Chicken 60
+Chicken Cheese 70/
+Veg Sandwich 40/
+Egg Sandwich 50/
+Chicken Club Sandwich 80/
+
+=====================FALAFEL=====================
+Chicken 60/
+Chicken Cheese 70/
+Egg 50/Veg 30/
+Mushakil 60/
+Thamiya (Veg.) 30/
+Thamiya (Chicken) 60/
+Thamiya (Egg) 50/
+
+==========================FRY==============
+Crab Lollipop 120/
+Crispy Wings 100/
+Chicken Popcorn 50/
+Chicken Nuggets 60/
+French Fries 40/
+Crispy Chicken Boneless 100/
+
+===============Falooda===============
+Classic Falooda 80/
+Arabian Falooda 100/- /
+Pasto Falooda 120/
+
+==============Skakes=================
+Snickers 50/
+Kitkat 50/
+Old Boy 60/
+Oreo 50/
+Strawberry 50/
+Kiwi 60/
+Badam 50/
+Avocado 50/
+Dragon Fruit 50/
+Cool Coffee Shake 40/
+Carrot Almond 50/
+Butter Scotch 50/
+
+================Juice=======================
+Orange 40/
+Grape 40/
+Musambi 40/
+Pineapple 40/
+Watermelon 40/
+Cucumber 40/
+Papaya 40/
+Mango 40/
+Pomogranite 40/
+Mojito 50/
+Milk Sarbath 20/
+Boost Milk Sarbath 30/
+
+===============Avil MILK=======================
+Normal 40/
+Special 50/
+Pasto 60/
+
+===============LIME=======================
+Fresh Lime 15/
+Orange Lime 20/
+Blue Lime 20/
+Mint Lime 20/
+Ginger Lime 20/
+Grape Lime 20/
+Morocco Lime 20/
+
+==================HOT==========================
+Normal tea 10/
+Zaffran tea 30/
+Sulaimani tea 10/
+Lime tea 10/
+Coffee 15/
+Boost 20/
+Horlicks 20/
